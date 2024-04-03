@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ync-ai-repo"
+version = "0.1.0"
+description = "YNC AI class"
+authors = ["suriryuk <dnjsgh1209@naver.com>"]
+license = "GNU GENERAL PUBLIC LICENSE Version 3"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
