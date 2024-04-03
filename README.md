@@ -1,3 +1,3 @@
 # ync_AI_repo
-YNC AI class repogitory
+YNC AI class repository
 test
